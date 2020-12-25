@@ -1,4 +1,5 @@
-# merry_xmas
+# Merry Xmas card
+
 Creates a xmas "card" with a Kelvin-Helmholtz billow in festive colors.
 
 ```bash
